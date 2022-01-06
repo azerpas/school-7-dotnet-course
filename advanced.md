@@ -108,3 +108,8 @@ in .project
 int no = 0; // Not nullable
 int? yes = 1; // Nullable
 ```
+
+# ref & out & in
+## ref
+Passed by reference
+## out

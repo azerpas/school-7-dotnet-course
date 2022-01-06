@@ -14,3 +14,15 @@ Installé sur le système ou livré à côté
 - Open-source
 - Philo orienté dév
 - Principal lang Microsoft
+
+# Premier projet
+## Assembly
+Résultat de compil (.dll)
+## Namespace
+Préfixes de noms
+## Hôte générique
+Application longue durée
+### Architecture
+- Injections de dépendances
+- Configuration
+- Logging
